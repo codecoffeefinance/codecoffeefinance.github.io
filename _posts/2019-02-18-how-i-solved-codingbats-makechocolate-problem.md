@@ -3,9 +3,31 @@ title: How I solved codingbats makeChocolate problem
 date: 2019-02-18 16:58:05 +0000
 
 ---
-def make_chocolate(small, big, goal):
+### This problem is slightly different than makeBricks.
 
-  
+Instead of returning whether making the goal length is possible or not like in makeBricks.We instead have to return exactly the number of small bricks to use to get to the goal length.
+
+"We want make a package of goal kilos of chocolate. We have small bars (1 kilo each) and big bars (5 kilos each). Return the number of small bars to use, assuming we always use big bars before small bars. Return -1 if it can't be done."
+
+After brainstorming on a small clip-it note sized paper(yet again) I went about coding the solution.
+
+This is what i came up with for this problem
+
+Case 1 : If all the small blocks of length 1 and big blocks of length 5 put together cannot make up the goal,you can already return -1
+
+Case 2 : if you take the remainder after dividing the goal by the length of the big blogs ,so 5,if you have less small blocks than the remainder then obviously would not be able to make the goal length and there return -1
+
+\-This last case is where makeBricks differs from makeChocolate
+
+Case 3 : So,i found that if the goal is less than 10,then you could just mod the goal by 5 and that result would be the number of small blocks  to use.
+
+\-After that we could actually just return goal-(big*5).This is because it is not necessary to make another if statement because the Case above is false.
+
+So for this one i decided that putting the code down would be better
+
+{% highlight python %} 
+
+def make_chocolate(small, big, goal):
 
   if(small+big*5<goal):
 
@@ -23,72 +45,4 @@ def make_chocolate(small, big, goal):
 
     return goal-(big*5)
 
-for this problem you need to return the number
-
-of small blocks you need to use
-
-\## Make cases for what would not result in the goal
-
-Let's use an example
-
-6,1,11
-
-the first if statement is false because
-
-the length of all the small blocks and the big blocks
-
-is not less than the goal
-
-Like in the makeBricks the second case is when
-
-the number of small blocks is less than goal%5 which in
-
-this case is not true
-
-Otherwise we check the further cases within the else
-
-section 
-
-We first check if goal is less than 10 for which we can just take a big block
-
-and the remaining small blocks to make the goal
-
-for any goal length more than 10 to get the smaller
-
-block you could just take the (goal)and minus it by
-
-the number of big blocks you have *5
-
-so 11-(1*5) which equals 6.so we need to use 6 of our small blocks
-
-6,2,12
-
-have 6 small blocks
-
-have 2 big blocks
-
-Again 
-
-for any goal length more than 10 to get the smaller
-
-block you could just take the (goal)and minus it by
-
-the number of big blocks you have *5
-
-so 12-(2*5) which equals 2.so we need to use 2 of our small blocks
-
-60,100,550
-
-have 60 small blocks
-
-have 100 big blocks
-
-Again 
-
-for any goal length more than 10 to get the smaller
-
-block you could just take the (goal)and minus it by
-
-the number of big blocks you have *5
-
-so 550-(100*5) which equals 50.so we need to use 50 of our small blocks
+{% endhighlight %} 

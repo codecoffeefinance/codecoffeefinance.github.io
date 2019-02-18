@@ -9,4 +9,5 @@ fields:
   config:
     required: true
 pages:
+- "./_posts/how-i-solved-codingbats-makechocolate-problem.md"
 - "./_posts/how-i-solved-codingbat-s-makebricks-problem.md"

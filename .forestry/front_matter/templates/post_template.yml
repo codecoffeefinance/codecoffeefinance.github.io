@@ -8,3 +8,5 @@ fields:
   label: title
   config:
     required: true
+pages:
+- "./_posts/how-i-did-thisx.md"

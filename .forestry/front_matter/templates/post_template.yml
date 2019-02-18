@@ -8,3 +8,5 @@ fields:
   label: title
   config:
     required: true
+pages:
+- "./_posts/_posts/how-i-solved-the-codingbat-makebricks-problem.md"

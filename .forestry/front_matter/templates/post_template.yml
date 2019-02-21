@@ -10,5 +10,6 @@ fields:
     required: true
 pages:
 - "./_posts/freelancing-is-my-calling.md"
+- "./_posts/write-it-down.md"
 - "./_posts/how-i-solved-codingbats-makechocolate-problem.md"
 - "./_posts/how-i-solved-codingbat-s-makebricks-problem.md"

@@ -1,7 +1,7 @@
 # Site settings
 title: CodeCoffeeFinance
 description: "Talk about Code,Coffee,Finance"
-url: "codecoffeefinance.github.io"
+url: "https://codecoffeefinance.github.io"
 author:
   name: "Muazzam Mullah"
   email: "coderpython24@gmail.com"
@@ -28,6 +28,7 @@ defaults:
 # Plugins
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Custom variables
 version: "1.1.0"

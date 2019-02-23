@@ -13,32 +13,32 @@ Just write a paragraph in plain text
 
 # This is a level 1 header
 
-\# This is a level 1 header  
+\# This is a level 1 header
 
 ## This is a level 2 header
 
-\## This is a level 2 header 
+\## This is a level 2 header
 
 ### This is a level 3 header
 
-\### This is a level 3 header 
+\### This is a level 3 header
 
 #### This is a level 4 header
 
-\#### This is a level 4 header 
+\#### This is a level 4 header
 
 ##### This is a level 5 header
 
-\##### This is a level 5 header 
+\##### This is a level 5 header
 
 ## Make some text bold
 
-**This is some bold text** 
+**This is some bold text**
 
 /**This is some bold text**
 
 ## **Create a link to another page**
 
-Let me take you to  \[Google\]\[https://google.co.za\]
+Let me take you to \[Google\](https://www.google.com)
 
 Let me take you to [Google](google.com)

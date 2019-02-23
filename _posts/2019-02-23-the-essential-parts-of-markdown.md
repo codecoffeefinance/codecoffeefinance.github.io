@@ -5,7 +5,7 @@ date: 2019-02-23 12:01:17 +0000
 ---
 So you have just want to know some essential markdown you have use to create markdown documents.
 
-## Headings
+## Markdown Headings
 
 \# This is a level 1 header  
 

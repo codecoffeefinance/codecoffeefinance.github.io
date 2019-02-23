@@ -35,7 +35,7 @@ Just write a paragraph in plain text
 
 **This is some bold text**
 
-\\**This is some bold text **
+\**This is some bold text**
 
 ## **Create a link to another page**
 

@@ -5,6 +5,10 @@ date: 2019-02-23 12:01:17 +0000
 ---
 So you have just want to know some essential markdown you have use to create markdown documents.
 
+## Paragraph of text
+
+Just write a paragraph in plain text
+
 ## Markdown Headings
 
 # This is a level 1 header
@@ -26,3 +30,15 @@ So you have just want to know some essential markdown you have use to create mar
 ##### This is a level 5 header
 
 \##### This is a level 5 header 
+
+## Make some text bold
+
+**This is some bold text** 
+
+/**This is some bold text**
+
+## **Create a link to another page**
+
+Let me take you to  \[Google\]\[https://google.co.za\]
+
+Let me take you to [Google](google.com)

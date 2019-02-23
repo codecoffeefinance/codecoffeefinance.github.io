@@ -1,5 +1,5 @@
 ---
-title: The essential parts of Markdown
+title: The bare essential parts of Markdown Tutorial
 date: 2019-02-23 12:01:17 +0000
 
 ---

@@ -8,5 +8,5 @@ fields:
   config:
     required: true
 pages:
-- "./_posts/scraping-or-extracting-from-rest-apis-using-python.md"
+- "./_posts/2019-06-20-scraping-or-extracting-from-rest-apis-using-python.md"
 - "./_posts/the-essential-parts-of-markdown.md"

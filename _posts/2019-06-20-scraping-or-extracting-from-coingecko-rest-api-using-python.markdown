@@ -33,4 +33,4 @@ I needed all the symbols and their high and low 24 hour values,in us dollars
         myfile.write(content)
     print("job complete")
 
-{{Color|#00FF00|**[Still Struggling ? Get help with this on fiverr now](https://www.fiverr.com/muazzammullah/scrape-extract-rest-api-data-with-python)**}}
+**[Still Struggling ? Get help with this on fiverr now](https://www.fiverr.com/muazzammullah/scrape-extract-rest-api-data-with-python)**

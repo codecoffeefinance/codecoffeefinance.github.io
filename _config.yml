@@ -1,39 +1,36 @@
-# Site settings
+---
 title: CodeCoffeeFinance
-description: "Talk about Code,Coffee,Finance"
-url: "https://codecoffeefinance.github.io"
-author:
-  name: "Muazzam Mullah"
-  email: "coderpython24@gmail.com"
-  url: "muazzammullah.github.io"
-
-# Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
-markdown: kramdown
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 8
-paginate_path: /page:num/
-
-# Default values
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-
-# Plugins
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+description: Talk about Code,Coffee,Finance
+url: https://codecoffeefinance.github.io
+author:
+  name: Muazzam Mullah
+  email: coderpython24@gmail.com
+  url: muazzammullah.github.io
+baseurl: "/"
+markdown: kramdown
+source: "."
+destination: "./_site"
+permalink: "/:title"
+paginate: 8
+paginate_path: "/page:num/"
 gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-
-# Custom variables
-version: "1.1.0"
-
-# Options
+- jekyll-paginate
+- jekyll-sitemap
+version: 1.1.0
 custom_header: false
 custom_nav_footer: false
 reverse: false

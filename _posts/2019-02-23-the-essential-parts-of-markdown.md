@@ -1,8 +1,8 @@
 ---
 title: The bare essential parts of Markdown Tutorial
-date: 2019-02-23 12:01:17 +0000
-
+date: 2019-02-23 12:01:17 Z
 ---
+
 So you have just want to know some essential markdown you have use to create markdown documents.
 
 ## Paragraph of text

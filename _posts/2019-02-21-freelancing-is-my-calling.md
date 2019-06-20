@@ -1,8 +1,8 @@
 ---
 title: Freelancing is my calling.....
-date: 2019-02-21 13:41:37 +0000
-
+date: 2019-02-21 13:41:37 Z
 ---
+
 Imagine,its a weekday,you wake up at 11am,take a shower,eat breakfast and then complete a task and send your client their work.By 1pm the client has replied and payment has gone through to you and you start with sending another client their contract and estimated timeline,you promise to deliver the full project in 7 days .You code until 6pm and then call it a day.You and your friends go to a movie and enjoy a dinner out.
 
 Now that is what i would call freedom.I am currently doing by Computer Science Degree,after that ill probably work for a year or two,but my ultimate goal,is the above paragraph.I'm not saying this without having experienced freelancing already.I am fortunate enough to have some decently long holidays.About maybe 2-3 years ago I decided that i would try my luck with freelancing.My first client,a cousin of mine who is in the real estate business.I created him a website with Wordpress , I even implemented some custom features for him.I felt great after being paid.My second client was also a family member,another cousin.The project that was given was built in django and it was a crud web application.The pay for this one was much higher than my first job.

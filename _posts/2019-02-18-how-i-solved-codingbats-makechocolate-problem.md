@@ -1,8 +1,8 @@
 ---
 title: How I solved codingbats makeChocolate problem
-date: 2019-02-18 16:58:05 +0000
-
+date: 2019-02-18 16:58:05 Z
 ---
+
 ### This problem is slightly different than makeBricks.
 
 Instead of returning whether making the goal length is possible or not like in makeBricks.We instead have to return exactly the number of small bricks to use to get to the goal length.

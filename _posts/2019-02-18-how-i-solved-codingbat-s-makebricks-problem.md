@@ -1,8 +1,8 @@
 ---
 title: How I solved Codingbat's makeBricks problem
-date: 2019-02-18 16:20:26 +0000
-
+date: 2019-02-18 16:20:26 Z
 ---
+
 ### Make if statements for what will not result in the goal
 
 So I stumbled upon a well known problem on codingbat called makeBricks.It goes like this

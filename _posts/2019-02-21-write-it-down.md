@@ -1,8 +1,8 @@
 ---
 title: Write it down!!
-date: 2019-02-21 14:05:18 +0000
-
+date: 2019-02-21 14:05:18 Z
 ---
+
 Through my years of software development I have had access to many tools that helps me achieve the results and features I want.There is two tools that have ultimately helped me the most when thinking about solutions.Those two things are .........
 
 ### A Pen and a Piece of Paper

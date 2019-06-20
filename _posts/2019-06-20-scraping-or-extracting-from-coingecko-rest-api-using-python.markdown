@@ -11,8 +11,6 @@ tags:
 
 I needed all the symbols and their high and low 24 hour values,in us dollars
 
-.........
-
     import json
     import urllib.request
     

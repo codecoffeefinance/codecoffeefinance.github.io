@@ -1,6 +1,6 @@
 ---
 title: Make money as a freelance graphic designer on fiverr
-date: 2019-06-20 21:34:00 Z
+date: 2019-07-30 21:34:00 Z
 categories:
 - tutorial
 tags:

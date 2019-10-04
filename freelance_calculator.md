@@ -32,6 +32,10 @@
           width:90%!important;
 	  max-width:90%!important;
          }
+	 	 
+	  #container{
+          	  max-width:90%!important;
+         }
 
          </style>
          <div class="" id="mainID">

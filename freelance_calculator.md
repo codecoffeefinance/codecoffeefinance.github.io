@@ -15,7 +15,7 @@
             
 </head>
 <body ng-app="chrome_app" ng-controller="popup_ctrl">
-<div class="container" id="containerID">
+<div class="container widthfix" id="containerID">
          <style type="text/css">
          .green{
           background-color: #44bd32!important;
@@ -26,6 +26,10 @@
 
                   .lightblue{
           background-color: #00a8ff!important;
+         }
+	 
+	  .widthfix{
+          width:100%!important;
          }
 
          </style>

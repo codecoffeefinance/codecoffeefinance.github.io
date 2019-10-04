@@ -30,7 +30,7 @@
 	 
 	  .widthfix{
           width:90%!important;
-	  max-width:90%;
+	  max-width:90%!important;
          }
 
          </style>

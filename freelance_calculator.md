@@ -29,11 +29,11 @@
          }
 	 
 	  .widthfix{
-          width:90%!important;
+          width:96%!important;
          }
 	 	 
 	  #container{
-          	  max-width:95%!important;
+          	  max-width:70%!important;
          }
 
          </style>

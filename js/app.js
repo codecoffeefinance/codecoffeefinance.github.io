@@ -9,7 +9,7 @@ myapp.controller('popup_ctrl', ['$scope', function($scope){
 	$scope.charge=0;
 	$scope.charge_upwork=0;
 	$scope.charge_freelancer=0;
-	$scope.mode=1;
+	$scope.mode=2;
 
 	
 

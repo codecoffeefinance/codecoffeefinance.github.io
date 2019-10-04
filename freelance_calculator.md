@@ -29,7 +29,8 @@
          }
 	 
 	  .widthfix{
-          width:100%!important;
+          width:90%!important;
+	  max-width:90%;
          }
 
          </style>

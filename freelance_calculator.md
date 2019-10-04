@@ -28,13 +28,7 @@
           background-color: #00a8ff!important;
          }
 	 
-	  .widthfix{
-          width:96%!important;
-         }
-	 	 
-	  #container{
-          	  max-width:70%!important;
-         }
+
 
          </style>
          <div class="" id="mainID">
